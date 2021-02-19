@@ -9,8 +9,8 @@ Download the zip or via Composer.
 
 `composer require dwilsondev/raw-framework:dev-bare`
 
-## Installation from Zip or CDN
-Download zip from GitHub or [download Raw Framework directly from the CDN](https://cdn.drewilson.dev/raw-framework/raw-framework-2.0.2-bare.zip). It will have everything set up for you already. All you have to do is adjust your .htaccess.
+## Installation from Zip
+Download zip from GitHub. It will have everything set up for you already. All you have to do is adjust your .htaccess.
 
 ## Prep
 ### Prepare Project Folder
