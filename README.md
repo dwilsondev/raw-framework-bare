@@ -130,6 +130,8 @@ Global constants are accessible throughout the entire project, mostly to set pat
 
 `DOMAIN` - Web address of the site. Will automatically switch to HTTPS if SSL is set to `true` in config.php. Can be used for setting absolute paths in your project.
 
+`ROOT_FOLDER` - Name of project folder.
+
 ## Version History
 
 ### 2.0.0 - Feb 18th, 2021
