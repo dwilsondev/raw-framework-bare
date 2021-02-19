@@ -1,4 +1,4 @@
-# Raw Framework 2 (Bare)
+# Raw Framework Bare 2
 Raw Framework is a simple, easy to use PHP MVC framework.
 
 ## Requirements
