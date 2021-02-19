@@ -1,5 +1,5 @@
 # Raw Framework Bare 2
-Raw Framework is a simple, easy to use PHP MVC framework.
+Raw Framework Bare is a simple, easy to use PHP MVC framework.
 
 ## Requirements
 Raw Framework requires at least PHP 7.0.0 or higher and works with PHP 8.
