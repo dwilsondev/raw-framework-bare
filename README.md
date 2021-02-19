@@ -7,7 +7,7 @@ Raw Framework requires at least PHP 7.0.0 or higher and works with PHP 8.
 ## Installation
 Download the zip or via Composer.
 
-`composer require dwilsondev/raw-framework:dev-bare`
+`composer require dwilsondev/raw-framework-bare`
 
 ## Installation from Zip
 Download zip from GitHub. It will have everything set up for you already. All you have to do is adjust your .htaccess.
